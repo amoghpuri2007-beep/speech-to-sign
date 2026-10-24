@@ -138,7 +138,7 @@ The 63 normalised floats are passed into a custom-trained TFLite model that outp
 
 ## 🚀 How to Run
 
-1. Clone the repo
+1. Clone `https://github.com/amoghpuri2007-beep/speech-to-sign.git`
 2. Open in **Android Studio**
 3. Connect a Firebase project and replace `google-services.json`
 4. Build and run on a physical Android device (camera required)
@@ -195,3 +195,7 @@ The model pipeline and architecture are fully built and ready to scale once more
 > This project combines **speech recognition, computer vision, and deep learning**  
 > into a single Android app — built in a 2nd semester college project.  
 > The full ML pipeline is production-ready — expanding the dataset is the only remaining step. 🎓
+
+## Repository origin
+
+This standalone repository preserves the history of [`projects/sem2-speech-to-sign`](https://github.com/amoghpuri2007-beep/The-Art-of-AI/tree/main/projects/sem2-speech-to-sign) from [The-Art-of-AI](https://github.com/amoghpuri2007-beep/The-Art-of-AI). The original project remains in that repository.
